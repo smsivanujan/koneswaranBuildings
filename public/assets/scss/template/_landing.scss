@@ -1,0 +1,43 @@
+.landing-page {
+    .logo .header-brand-img.light-logo1 {
+        display: block;
+    }
+    .container {
+        max-width: 85%;
+    }
+    .navbar-nav {
+        flex-direction: row;
+    }
+    @media only screen and (min-width: 767px) {
+        .top .nav li {
+            margin-left: 0;
+            margin-right: 28px;
+        }
+    }  
+    .nav-link:hover, .nav-link:focus {
+        color: #8FBD56 !important;
+    }
+    .nav-link.active {
+        background-color: #8FBD56;
+        color: $white !important;
+        padding: 0.185rem 0.65rem;
+    }  
+    .nav-link {
+        font-weight: 500;
+        font-size: 14px;
+    }
+    .btn-outline-success-gradient {
+        background-color: transparent;
+        border: 1px solid $success;
+        color: $success;
+        &:hover {
+            background: linear-gradient(to right bottom, #13bfa6 0%, #008E98 100%) !important;
+            color: $white;
+        }
+    }
+    @media (min-width:992px) {
+        .d-lg-flex {
+            display: flex;
+        }
+    }    
+}
