@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\CertificateController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -16,6 +17,5 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('pages.index');
 });
-Route::get('/gallary', function () {
-    return view('pages.gallary');
-});
+
+Route::post('/verify-certificate', [CertificateController::class, 'verifyCertificate']);

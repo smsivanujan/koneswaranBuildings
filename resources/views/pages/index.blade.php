@@ -32,12 +32,12 @@
 <!-- Header Main Close-->
 
 <!-- Our motto section-->
-<div class="section pb-5">
+<div class="pb-5 bg-primary section">
 	<div class="container px-5 px-md-0">
 		<div class="row text-center">
 			<div class="col-lg-12">
 				<h3 class="header-family">The Crowning Glory</h3>
-				<p class="text-default sub-text">“Koneswaran Engineering’s crowning glory lies in its unwavering commitment to excellence, innovation,
+				<p class="text-default text-white sub-text">“Koneswaran Engineering’s crowning glory lies in its unwavering commitment to excellence, innovation,
 					and the dual focus on building and training. With a passion for pushing the boundaries of engineering, Koneswaran Engineering not only
 					delivers projects that exceed expectations but also cultivates the next generation of skilled professionals. By providing top-quality
 					construction solutions tailored to clients’ needs and offering comprehensive training programs, the company ensures that both its
@@ -53,11 +53,11 @@
 							<img class="img-fluid" src="../assets/images/landing/Why/vision.png" alt="">
 						</div>
 						<p class="why-head mb-2">Mission</p>
-						<p class="fs-13">Koneswaran Engineering is dedicated to delivering unique, integrated electrical and engineering solutions while
+						<p class="fs-13 text-white">Koneswaran Engineering is dedicated to delivering unique, integrated electrical and engineering solutions while
 							also fostering talent through comprehensive training programs. ‌ </p>
-						<p class="fs-13">Our mission is to consistently create dependable, high-quality, and cost-effective solutions for our clients,
+						<p class="fs-13 text-white">Our mission is to consistently create dependable, high-quality, and cost-effective solutions for our clients,
 							whether in construction, infrastructure, or specialized training. ‌ </p>
-						<p class="fs-13">By combining our expertise in building and skill development, we set industry standards for quality and
+						<p class="fs-13 text-white">By combining our expertise in building and skill development, we set industry standards for quality and
 							reliability, empowering both our clients and the next generation of engineering professionals.‌ </p>
 					</div>
 				</div>
@@ -69,10 +69,10 @@
 							<img class="img-fluid" src="../assets/images/landing/Why/mission.png" alt="">
 						</div>
 						<p class="why-head mb-2">Vision</p>
-						<p class="fs-13">Our vision is to establish Koneswaran Engineering as a leading company in electrical and engineering services,
+						<p class="fs-13 text-white">Our vision is to establish Koneswaran Engineering as a leading company in electrical and engineering services,
 							distinguished by our commitment to innovation, advanced technology, and exceptional service standards.</p>
-						<p class="fs-13">We aim to build not only high-quality infrastructures but also lasting relationships with clients and communities.</p>
-						<p class="fs-13">By setting industry benchmarks for sustainable, efficient engineering solutions and providing training that empowers
+						<p class="fs-13 text-white">We aim to build not only high-quality infrastructures but also lasting relationships with clients and communities.</p>
+						<p class="fs-13 text-white">By setting industry benchmarks for sustainable, efficient engineering solutions and providing training that empowers
 							future professionals, we drive progress and contribute to a brighter, more resilient future for the communities we serve.‌</p>
 					</div>
 				</div>
@@ -83,7 +83,7 @@
 <!-- Our motto section end-->
 
 <!-- Testimonials section-->
-<div class="section pb-5 bg-white" id="About">
+<div class="pb-5 section" id="About">
 	<div class="container px-5 px-md-0">
 		<div class="row justify-content-center text-center">
 			<div class="col-lg-8 ps-4 mb-lg-0- mb-4">
@@ -102,11 +102,11 @@
 <!-- Testimonials Close-->
 
 <!-- Projects section-->
-<div class="bg-primary section" id="Events">
+<div class="pb-5 bg-primary section" id="Events">
 	<div class="container px-5 px-md-0">
 		<div class="row justify-content-center text-center">
 			<div class="col-lg-8 text-center">
-				<h3 class="header-family text-white">Projects</h3>
+				<h3 class="header-familye">Projects</h3>
 				<p class="sub-text text-white pb-3">Koneswaran Engineering has successfully delivered a wide range of projects,
 					specializing in residential construction, electrical engineering, and infrastructure development.
 					Their projects showcase a blend of innovative design, high-quality craftsmanship, and a customer-first approach, ensuring every
@@ -119,22 +119,22 @@
 			<div class="col-lg-12">
 				<div class="customer-logos">
 					<div class="slide text-center"><img src="../assets/images/landing/companies/opening.jfif" alt="">
-						<h4 class="header-family text-white">Elephantp ass-Thaddivankoddi (Kilinochchi, Srilanka) Road Improvement Project</h4><a class="mx-1 text-white" href="#">See More <i class="fe fe-chevron-right"></i></a>
+						<h4 class="header-family">Elephantp ass-Thaddivankoddi (Kilinochchi, Srilanka) Road Improvement Project</h4><a class="mx-1 text-white" href="#">See More <i class="fe fe-chevron-right"></i></a>
 					</div>
 					<div class="slide text-center"><img src="../assets/images/landing/companies/opening.jfif" alt="">
-						<h4 class="header-family text-white">Vavuniya District Water Supply and Road Development Project</h4><a class="mx-1 text-white" href="#">See More <i class="fe fe-chevron-right"></i></a>
+						<h4 class="header-family">Vavuniya District Water Supply and Road Development Project</h4><a class="mx-1 text-white" href="#">See More <i class="fe fe-chevron-right"></i></a>
 					</div>
 					<div class="slide text-center"><img src="../assets/images/landing/companies/sportsmeet.jfif" alt="">
-						<h4 class="header-family text-white">Mullaitivu Coastal Protection and Road Improvement Project</h4><a class="mx-1 text-white" href="#">See More <i class="fe fe-chevron-right"></i></a>
+						<h4 class="header-family">Mullaitivu Coastal Protection and Road Improvement Project</h4><a class="mx-1 text-white" href="#">See More <i class="fe fe-chevron-right"></i></a>
 					</div>
 					<div class="slide text-center"><img src="../assets/images/landing/companies/newyear.jfif" alt="">
-						<h4 class="header-family text-white">Northern Province Infrastructure Development Project</h4><a class="mx-1 text-white" href="#">See More <i class="fe fe-chevron-right"></i></a>
+						<h4 class="header-family">Northern Province Infrastructure Development Project</h4><a class="mx-1 text-white" href="#">See More <i class="fe fe-chevron-right"></i></a>
 					</div>
 					<div class="slide text-center"><img src="../assets/images/landing/companies/navartiri.jpg" alt="">
-						<h4 class="header-family text-white">Annaikoddai-Kakaitheevi (Jaffna, Srilanka) Road Improvement Project</h4><a class="mx-1 text-white" href="#">See More <i class="fe fe-chevron-right"></i></a>
+						<h4 class="header-family">Annaikoddai-Kakaitheevi (Jaffna, Srilanka) Road Improvement Project</h4><a class="mx-1 text-white" href="#">See More <i class="fe fe-chevron-right"></i></a>
 					</div>
 					<div class="slide text-center"><img src="../assets/images/landing/companies/prize_giving.jfif" alt="">
-						<h4 class="header-family text-white">Sandillipay-Sankanai (Jaffna, Srilanka) Road Improvement Project</h4><a class="mx-1 text-white" href="#">See More <i class="fe fe-chevron-right"></i></a>
+						<h4 class="header-family">Sandillipay-Sankanai (Jaffna, Srilanka) Road Improvement Project</h4><a class="mx-1 text-white" href="#">See More <i class="fe fe-chevron-right"></i></a>
 					</div>
 				</div>
 			</div>
@@ -144,7 +144,7 @@
 <!-- Projects section Close-->
 
 <!-- Training section-->
-<div class="section bg-white pb-7" id="Features">
+<div class="pb-7 section" id="Features">
 	<div class="container px-5 px-md-0">
 		<div class="row text-center justify-content-center">
 			<div class="col-lg-8 ps-4">
@@ -250,12 +250,12 @@
 <!-- Training Close-->
 
 <!-- Contact-->
-<div class="bg-image-landing bg-white section" id="Contact">
+<div class="pb-5  bg-primary  section " id="Contact">
 	<div class="container px-5 px-md-0">
 		<div class="row text-center justify-content-center">
 			<div class="col-lg-8">
 				<h3 class="header-family">Contacts</h3>
-				<p class="text-default sub-text">You can contact anytime.</p>
+				<p class="text-default text-white sub-text">You can contact anytime.</p>
 			</div>
 		</div>
 		<div class="row">
@@ -278,7 +278,7 @@
 															</div>
 															<div class="col-xl-9 col-md-9 px-0 mb-1 col-sm-9">
 																<h5 class="mb-1 fw-semibold">Head office</h5>
-																<p class="fs-13 text-muted">186/12, Kurumankadu, Vavuniya, Srilanka
+																<p class="fs-13 text-white text-muted">186/12, Kurumankadu, Vavuniya, Srilanka
 																</p>
 															</div>
 														</div>
@@ -296,8 +296,8 @@
 															</div>
 															<div class="col-xl-9 col-md-9 px-0 mb-1 col-sm-9">
 																<h5 class="mb-1 fw-semibold">Sub office</h5>
-																<p class="fs-13 text-muted">17, 2nd Farm, Kananagapuram, Kilinochchi, Srilanka</p>
-																<p class="fs-13 text-muted">vaddu West, Vaddukoddai, Jaffna, Srilanka</p>
+																<p class="fs-13 text-white text-muted">17, 2nd Farm, Kananagapuram, Kilinochchi, Srilanka</p>
+																<p class="fs-13 text-white text-muted">vaddu West, Vaddukoddai, Jaffna, Srilanka</p>
 															</div>
 														</div>
 													</div>
@@ -314,7 +314,7 @@
 															</div>
 															<div class="col-xl-6 col-md-9 px-0 mb-1 col-sm-9">
 																<h5 class="mb-1 fw-semibold">Phone</h5>
-																<p class="mb-0 fs-13 text-muted">0778802923 0713662668 0778806684
+																<p class="mb-0 fs-13 text-white text-muted">0778802923 0713662668 0778806684
 																</p>
 															</div>
 														</div>
@@ -332,7 +332,7 @@
 															</div>
 															<div class="col-xl-6 col-md-9 px-0 mb-1 col-sm-9">
 																<h5 class="mb-1 fw-semibold">Email</h5>
-																<p class="mb-0 fs-13 text-muted">koneswaranengineering@gmail.com
+																<p class="mb-0 fs-13 text-white text-muted">koneswaranengineering@gmail.com
 																</p>
 															</div>
 														</div>
@@ -350,8 +350,8 @@
 															</div>
 															<div class="col-xl-6 col-md-9 px-0 mb-1 col-sm-9">
 																<h5 class="mb-1 fw-semibold">Work Time</h5>
-																<p class="mb-0 fs-13 text-muted">Mon - Sat: 9am - 6pm</p>
-																<p class="fs-13 text-muted">Sunday: Holiday
+																<p class="mb-0 fs-13 text-white text-muted">Mon - Sat: 9am - 6pm</p>
+																<p class="fs-13 text-white text-muted">Sunday: Holiday
 																</p>
 															</div>
 														</div>
@@ -361,11 +361,6 @@
 										</div>
 									</div>
 								</div>
-								<!-- <div class="col-xl-6 col-md-12 col-sm-12">
-									<div class="">
-										<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15729.238065742084!2d79.9356223698399!3d9.7398277807206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3afe52e98d542dcb%3A0x8bad045e1da0295f!2sJaffna%20College!5e0!3m2!1sen!2slk!4v1717053484301!5m2!1sen!2slk" width="600" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-									</div>
-								</div> -->
 							</div>
 						</div>
 					</div>
@@ -376,40 +371,8 @@
 </div>
 <!--Contact close-->
 
-<!--Support-->
-<div class="demo-screen-skin bg-primary">
-	<div class="container text-center text-white px-5 px-md-0">
-		<div id="demo" class="row">
-			<div class="col-lg-6">
-				<div class="feature-1">
-					<a href="#"></a>
-					<div class="mb-3">
-						<i class="si si-earphones-alt"></i>
-					</div>
-					<h4 class="fs-25">Help</h4>
-					<p class="mb-1 text-white">Need help? Don't worry. Our dedicated team will assist you.</p>
-					<h6 class="mb-0">help : <a class="text-dark" href="mailto:support@spruko.com">koneswaranengineering.com</a></h6>
-				</div>
-			</div>
-			<div class="col-lg-6 mt-5 mt-xl-0 mt-lg-0">
-				<div class="feature-1">
-					<a href="#"></a>
-					<div class="mb-3">
-						<i class="si si-bubbles"></i>
-					</div>
-					<h4 class="fs-25">Inquiry</h4>
-					<p class="mb-1 text-white">உங்கள் குழந்தையை எமது முன்பள்ளியில் சேர்க்க முன் ஏதேனும்
-						கேள்விகள் இருப்பின் கேட்க தயங்க வேண்டாம்.</p>
-					<h6 class="mb-0">Call : <a class="text-dark" href="mailto:support@spruko.com">support@spruko.com</a></h6>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--Support close-->
-
-<!-- Contact-->
-<div class="bg-image-landing bg-white section" id="Application">
+<!-- Applicant-->
+<div class="pb-5  section" id="Application">
 	<div class="container px-5 px-md-0">
 		<div class="row text-center justify-content-center">
 			<div class="col-lg-8">
@@ -475,7 +438,59 @@
 		</div>
 	</div>
 </div>
-<!--Contact close-->
+<!--Applicant close-->
+
+<!-- Verification -->
+<div class="pb-5 bg-primary section" id="Verification">
+	<div class="container px-5 px-md-0">
+		<div class="row text-center justify-content-center">
+			<div class="col-lg-8">
+				<h3 class="header-family">Validate Certificate</h3>
+				<p class="text-default text-white sub-text">Please enter the Certificate number to validate the authenticity of a certificate.</p>
+				<div class="input-group">
+					<input type="text" id="verification_code" class="form-control" placeholder="Enter certificate number...">
+					<button class="input-group-text btn btn-info text-white" id="verify_button">Verify</button>
+				</div>
+				<div id="result" class="text-center mt-3"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Verification close -->
+
+<script>
+	document.getElementById("verify_button").addEventListener("click", function() {
+		var certificateNumber = document.getElementById("verification_code").value;
+
+		if (certificateNumber.trim() !== "") {
+			document.getElementById("result").innerHTML = `<p class="text-white">Verifying certificate...</p>`;
+
+			fetch('/verify-certificate', {
+					method: 'POST',
+					headers: {
+						'Content-Type': 'application/json',
+						'X-CSRF-TOKEN': '{{ csrf_token() }}'
+					},
+					body: JSON.stringify({
+						certificate_number: certificateNumber
+					})
+				})
+				.then(response => response.json())
+				.then(data => {
+					if (data.status === 'success') {
+						document.getElementById("result").innerHTML = `<p class="text-success">${data.message}</p>`;
+					} else {
+						document.getElementById("result").innerHTML = `<p class="text-danger">${data.message}</p>`;
+					}
+				})
+				.catch(error => {
+					document.getElementById("result").innerHTML = `<p class="text-danger">An error occurred. Please try again.</p>`;
+				});
+		} else {
+			document.getElementById("result").innerHTML = `<p class="text-danger">Please enter a certificate number.</p>`;
+		}
+	});
+</script>
 
 @endsection
 
@@ -485,4 +500,6 @@
 
 @section('scripts')
 <!-- scripts -->
+
+
 @endsection
