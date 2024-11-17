@@ -27,6 +27,9 @@
 						<li class="slide">
 							<a class="side-menu__item" data-bs-toggle="slide" href="#Contact"><span class="side-menu__label">Contacts</span></a>
 						</li>
+						<li class="slide">
+							<a class="side-menu__item" data-bs-toggle="slide" href="#Verification"><span class="side-menu__label">Verify Certificate</span></a>
+						</li>
 					</ul>
 					<div class="header-nav-right d-flex">
 						<a href="#Application" class="btn btn-pill btn-primary btn-w-md py-2 my-auto d-lg-none d-xl-block d-block">

@@ -441,7 +441,7 @@
 <!--Applicant close-->
 
 <!-- Verification -->
-<div class="pb-5 bg-primary section" id="Verification">
+<div class="pb-5 bg-info section" id="Verification">
 	<div class="container px-5 px-md-0">
 		<div class="row text-center justify-content-center">
 			<div class="col-lg-8">
@@ -449,7 +449,7 @@
 				<p class="text-default text-white sub-text">Please enter the Certificate number to validate the authenticity of a certificate.</p>
 				<div class="input-group">
 					<input type="text" id="verification_code" class="form-control" placeholder="Enter certificate number...">
-					<button class="input-group-text btn btn-info text-white" id="verify_button">Verify</button>
+					<button class="input-group-text btn btn-warning text-white" id="verify_button">Verify</button>
 				</div>
 				<div id="result" class="text-center mt-3"></div>
 			</div>
@@ -478,7 +478,7 @@
 				.then(response => response.json())
 				.then(data => {
 					if (data.status === 'success') {
-						document.getElementById("result").innerHTML = `<p class="text-success">${data.message}</p>`;
+						document.getElementById("result").innerHTML = `<p class="bg-success text-white">${data.message}</p>`;
 					} else {
 						document.getElementById("result").innerHTML = `<p class="text-danger">${data.message}</p>`;
 					}
