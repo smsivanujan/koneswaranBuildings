@@ -224,7 +224,7 @@
 
 				<h6>Program Details</h6>
 				<ul>
-					<li><strong>Duration:</strong> 6 months, including theory and hands-on sessions.</li>
+					<li><strong>Duration:</strong> 3 months, including theory and hands-on sessions.</li>
 					<li><strong>Mode:</strong> On-site training and lectures in a safe and equipped workshop.</li>
 					<li><strong>Target Audience:</strong> Beginners, maintenance staff, and DIY enthusiasts.</li>
 					<li><strong>Certification:</strong> Certificates of participation or completion.</li>

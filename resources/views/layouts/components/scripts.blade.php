@@ -50,8 +50,8 @@
         if (form.checkValidity()) {
             // Show loading spinner
             swal({
-                title: "விண்ணப்பம் பரிசீலிக்கப்படுகின்றது",
-                text: "தயவுசெய்து காத்திருக்கவும்.",
+                title: "Application is under review",
+                text: "Please wait.",
                 onBeforeOpen: () => {
                     Swal.showLoading();
                 },
@@ -65,7 +65,7 @@
                 })
                 .then(response => {
                     // Show success message
-                    swal("நன்றி!", "உங்கள் படிவம் வெற்றிகரமாக சமர்ப்பிக்கப்பட்டது.", "success");
+                    swal("Thank you!", "Your form has been successfully submitted.", "success");
                 })
                 .then(() => {
                     // Reload the current page after a delay
@@ -76,11 +76,11 @@
                 .catch(error => {
                     console.error('Error!', error.message);
                     // Show error message
-                    swal("தவறு", "சில தகவல்கள் தவறவிடப்பட்டுள்ளது.", "error");
+                    swal("Error", "Some information is missing.", "error");
                 });
         } else {
             // Show error message for invalid form
-            swal("தவறு", "சில தகவல்கள் தவறவிடப்படுள்ளது.", "error");
+            swal("Error", "Some information is missing.", "error");
         }
     });
 
