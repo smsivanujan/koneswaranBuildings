@@ -148,8 +148,8 @@
 	<div class="container px-5 px-md-0">
 		<div class="row text-center justify-content-center">
 			<div class="col-lg-8 ps-4">
-				<h3 class="header-family">Training Programs</h3>
-				<p class="text-default sub-text">Our company offers free training programs for future civil engineering students. Each year, we select 20 students to participate in a comprehensive six-month Basic Electrical Work Training Program.</p>
+				<h3 class="header-family">Professional Certificate Programs</h3>
+				<p class="text-default sub-text">At Koneswaran Engineering Base, we are committed to offering specialized training programs that equip aspiring engineers with the practical knowledge and skills needed to succeed in their respective fields. Our programs cover a wide range of crucial areas, including electrical work, civil engineering, metalworking, and first aid, ensuring that participants gain hands-on experience and a strong foundation for their careers. Each course is carefully designed to provide real-world applications, preparing students for the challenges they will face in the industry.</p>
 			</div>
 		</div>
 		<div class="row">
@@ -161,16 +161,75 @@
 					</svg>
 				</div>
 				<h4 class="mx-1">
-					Free Basic Electrical Work Training Program for Civil Engineering and Plumbing Students
+					Basic First Aid Training Program
 				</h4>
+				<p>
+					The Basic First Aid Training Program is designed to equip participants with the knowledge and skills to respond effectively in medical emergencies. It covers fundamental first aid principles, life-saving techniques, and practical methods to handle common injuries and health crises. This program is ideal for individuals with little to no prior first aid experience, including employees, students, and community members.
+				</p>
+
 				<ul class="text-muted mb-3 mx-1 justified-list">
-					<li style="padding-left: 20px;"><i class="fa fa-circle green-icon"></i>ntroduction to basic electrical principles, including voltage, current, and resistance. Students will learn about safety practices and legal considerations when working with electricity.</li>
-					<li style="padding-left: 20px;"><i class="fa fa-circle green-icon"></i>Understanding electrical circuits, including series and parallel configurations. Students will practice circuit design and troubleshooting techniques.</li>
-					<li style="padding-left: 20px;"><i class="fa fa-circle green-icon"></i>Hands-on training in wiring methods and installation procedures, focusing on residential and commercial electrical systems, including outlets, switches, and lighting.</li>
-					<li style="padding-left: 20px;"><i class="fa fa-circle green-icon"></i>Safety protocols for working with electricity, including lockout/tagout procedures and personal protective equipment (PPE) usage.</li>
-					<li style="padding-left: 20px;"><i class="fa fa-circle green-icon"></i> Introduction to common electrical tools and equipment, along with maintenance and repair techniques for electrical systems.</li>
-					<li style="padding-left: 20px;"><i class="fa fa-circle green-icon"></i>Advanced electrical troubleshooting and problem-solving strategies, with practical scenario-based training to reinforce skills.</li>
+					<li style="padding-left: 20px;">
+						<i class="fa fa-circle green-icon"></i> Introduction & Basics of First Aid.
+						<ul style="padding-left: 40px;">
+							<li><i class="fa fa-circle green-icon"></i> Welcome participants and introduce the trainer(s)</li>
+							<li><i class="fa fa-circle green-icon"></i> Highlight the importance of first aid</li>
+							<li><i class="fa fa-circle green-icon"></i> Share program objectives of Preserve life, Prevent the condition from worsening & Promote recovery </li>
+						</ul>
+					</li>
+					<li style="padding-left: 20px;">
+						<i class="fa fa-circle green-icon"></i> Key First Aid Techniques.
+						<ul style="padding-left: 40px;">
+							<li><i class="fa fa-circle green-icon"></i> Definition and principles</li>
+							<li><i class="fa fa-circle green-icon"></i> Emergency action steps: DRSABC</li>
+						</ul>
+					</li>
+					<li style="padding-left: 20px;">
+						<i class="fa fa-circle green-icon"></i> Key First Aid Techniques.
+						<ul style="padding-left: 40px;">
+							<li><i class="fa fa-circle green-icon"></i> CPR (Cardiopulmonary Resuscitation)</li>
+							<li><i class="fa fa-circle green-icon"></i> Choking</li>
+							<li><i class="fa fa-circle green-icon"></i> Wound Care</li>
+							<li><i class="fa fa-circle green-icon"></i> Managing Common Medical Emergencies</li>
+						</ul>
+					</li>
+					<li style="padding-left: 20px;">
+						<i class="fa fa-circle green-icon"></i> imulated Scenarios and Practice.
+						<ul style="padding-left: 40px;">
+							<li><i class="fa fa-circle green-icon"></i> Hands-on CPR practice on mannequins</li>
+							<li><i class="fa fa-circle green-icon"></i> Dressing wounds and bandaging</li>
+							<li><i class="fa fa-circle green-icon"></i> Responding to a choking victim</li>
+							<li><i class="fa fa-circle green-icon"></i> Handling a fainting or unconscious victim</li>
+						</ul>
+					</li>
+					<li style="padding-left: 20px;">
+						<i class="fa fa-circle green-icon"></i> Special Considerations.
+						<ul style="padding-left: 40px;">
+							<li><i class="fa fa-circle green-icon"></i> Dealing with seizures</li>
+							<li><i class="fa fa-circle green-icon"></i> Allergic reactions and epinephrine auto-injectors (EpiPen)</li>
+							<li><i class="fa fa-circle green-icon"></i> First aid for poisoning</li>
+							<li><i class="fa fa-circle green-icon"></i> Heat exhaustion and hypothermia management</li>
+						</ul>
+					</li>
+					<li style="padding-left: 20px;">
+						<i class="fa fa-circle green-icon"></i> Safety in the Workplace.
+						<ul style="padding-left: 40px;">
+							<li><i class="fa fa-circle green-icon"></i> Electrical shock</li>
+							<li><i class="fa fa-circle green-icon"></i> Stress-induced conditions</li>
+						</ul>
+					</li>
+					<li style="padding-left: 20px;">
+						<i class="fa fa-circle green-icon"></i> Assignments.
+					</li>
 				</ul>
+
+				<h6>Program Details</h6>
+				<ul>
+					<li><strong>Duration:</strong> 6 months, including theory and hands-on sessions.</li>
+					<li><strong>Mode:</strong> On-site training and lectures in a safe and equipped workshop.</li>
+					<li><strong>Target Audience:</strong> Beginners, maintenance staff, and DIY enthusiasts.</li>
+					<li><strong>Certification:</strong> Certificates of participation or completion.</li>
+				</ul>
+
 				<!-- <a class="mx-1" href="#">Read More <i class="fe fe-chevron-right"></i></a> -->
 			</div>
 
@@ -188,13 +247,58 @@
 					</svg>
 				</div>
 				<h4 class="mx-1">
-					Basic Metal Works Training Program‌
+					Basic Measurement Methods and Waterproofing Training Program
 				</h4>
+				<p>
+					The Basic Measurement Methods and Waterproofing Training Program is designed to provide foundational knowledge and practical skills for accurate measurement and effective waterproofing techniques. This program is ideal for individuals working in construction, maintenance, or DIY projects, ensuring they can contribute to durable and precise workmanship.
+				</p>
+
 				<ul class="text-muted mb-3 mx-1 justified-list">
-					<li style="padding-left: 20px;"><i class="fa fa-circle green-icon"></i>overview of metalworking principles, emphasizing workplace safety, legal regulations, and common scenarios in the industry.</li>
-					<li style="padding-left: 20px;"><i class="fa fa-circle green-icon"></i>welding fundamentals.</li>
-					<li style="padding-left: 20px;"><i class="fa fa-circle green-icon"></i>machining techniques.</li>
+					<li style="padding-left: 20px;">
+						<i class="fa fa-circle green-icon"></i> Introduction & Basic Measurement Methods.
+						<ul style="padding-left: 40px;">
+							<li><i class="fa fa-circle green-icon"></i> Importance of Measurements</li>
+							<li><i class="fa fa-circle green-icon"></i> Tools and Equipment</li>
+							<li><i class="fa fa-circle green-icon"></i> Practical Session</li>
+						</ul>
+					</li>
+					<li style="padding-left: 20px;">
+						<i class="fa fa-circle green-icon"></i> Basics of Waterproofing.
+						<ul style="padding-left: 40px;">
+							<li><i class="fa fa-circle green-icon"></i> Introduction to Waterproofing</li>
+							<li><i class="fa fa-circle green-icon"></i> Types of Waterproofing</li>
+							<li><i class="fa fa-circle green-icon"></i> Common Waterproofing Areas</li>
+						</ul>
+					</li>
+					<li style="padding-left: 20px;">
+						<i class="fa fa-circle green-icon"></i> Practical Waterproofing Techniques.
+						<ul style="padding-left: 40px;">
+							<li><i class="fa fa-circle green-icon"></i> Surface Preparation</li>
+							<li><i class="fa fa-circle green-icon"></i> Application Techniques</li>
+							<li><i class="fa fa-circle green-icon"></i> Quality Assurance</li>
+						</ul>
+					</li>
+					<li style="padding-left: 20px;">
+						<i class="fa fa-circle green-icon"></i> Safety and Best Practices.
+						<ul style="padding-left: 40px;">
+							<li><i class="fa fa-circle green-icon"></i> Handling waterproofing chemicals safely</li>
+							<li><i class="fa fa-circle green-icon"></i> Proper tool and equipment maintenance</li>
+							<li><i class="fa fa-circle green-icon"></i> Importance of using Personal Protective Equipment (PPE)</li>
+						</ul>
+					</li>
+					<li style="padding-left: 20px;">
+						<i class="fa fa-circle green-icon"></i> Assignments.
+					</li>
 				</ul>
+
+				<h6>Program Details</h6>
+				<ul>
+					<li><strong>Duration:</strong> 6 months, including theory and hands-on sessions.</li>
+					<li><strong>Mode:</strong> On-site training and lectures in a safe and equipped workshop.</li>
+					<li><strong>Target Audience:</strong> Beginners, maintenance staff, and DIY enthusiasts.</li>
+					<li><strong>Certification:</strong> Certificates of participation or completion.</li>
+				</ul>
+
 				<!-- <a class="mx-1" href="#">Read More <i class="fe fe-chevron-right"></i></a> -->
 			</div>
 		</div>
@@ -207,16 +311,67 @@
 					</svg>
 				</div>
 				<h4 class="mx-1">
-					Waterproofing Techniques Training Program
+					Basic Metal Works Training Program
 				</h4>
+				<p>
+					The Basic Metal Works Training Program is designed to introduce participants to fundamental skills in metalworking, including cutting, shaping, joining, and finishing. This program is ideal for beginners or individuals looking to build foundational knowledge in fabrication, repairs, or construction.
+				</p>
+
 				<ul class="text-muted mb-3 mx-1 justified-list">
-					<li style="padding-left: 20px;"><i class="fa fa-circle green-icon"></i>Introduction to waterproofing principles, types of materials, and their applications in construction.</li>
-					<li style="padding-left: 20px;"><i class="fa fa-circle green-icon"></i>Techniques for assessing water damage and moisture control, including inspection and testing methods.</li>
-					<li style="padding-left: 20px;"><i class="fa fa-circle green-icon"></i>Application methods for various waterproofing systems, such as membranes, coatings, and sealants.</li>
-					<li style="padding-left: 20px;"><i class="fa fa-circle green-icon"></i>Best practices for waterproofing in diverse environments, addressing challenges in residential, commercial, and industrial settings.</li>
-					<li style="padding-left: 20px;"><i class="fa fa-circle green-icon"></i>Hands-on workshops to practice waterproofing techniques in practical settings.</li>
-					<li style="padding-left: 20px;"><i class="fa fa-circle green-icon"></i>Final assessments and project work, enabling students to showcase their waterproofing skills.</li>
+					<li style="padding-left: 20px;">
+						<i class="fa fa-circle green-icon"></i> Introduction & Understanding Materials and Tools.
+						<ul style="padding-left: 40px;">
+							<li><i class="fa fa-circle green-icon"></i> Types of Metals</li>
+							<li><i class="fa fa-circle green-icon"></i> Tools and Equipment</li>
+						</ul>
+					</li>
+					<li style="padding-left: 20px;">
+						<i class="fa fa-circle green-icon"></i> Safety in Metalworking.
+						<ul style="padding-left: 40px;">
+							<li><i class="fa fa-circle green-icon"></i> Personal Protective Equipment (PPE): Gloves, goggles, aprons, and steel-toe boots</li>
+							<li><i class="fa fa-circle green-icon"></i> Handling sharp tools and materials safely</li>
+							<li><i class="fa fa-circle green-icon"></i> Fire safety precautions (especially during cutting or welding)</li>
+						</ul>
+					</li>
+					<li style="padding-left: 20px;">
+						<i class="fa fa-circle green-icon"></i> Basic Techniques and Applications.
+						<ul style="padding-left: 40px;">
+							<li><i class="fa fa-circle green-icon"></i> Cutting Techniques</li>
+							<li><i class="fa fa-circle green-icon"></i> Filing and Finishing</li>
+							<li><i class="fa fa-circle green-icon"></i> Shaping and Bending</li>
+							<li><i class="fa fa-circle green-icon"></i> Joining Methods</li>
+						</ul>
+					</li>
+					<li style="padding-left: 20px;">
+						<i class="fa fa-circle green-icon"></i> Practical Hands-On Projects.
+						<ul style="padding-left: 40px;">
+							<li><i class="fa fa-circle green-icon"></i> Cutting and filing a metal plate to size</li>
+							<li><i class="fa fa-circle green-icon"></i> Creating a simple bracket or frame using rivets</li>
+							<li><i class="fa fa-circle green-icon"></i> Basic welding practice</li>
+							<li><i class="fa fa-circle green-icon"></i> Fabricating a small tool or object like a metal tray or hook</li>
+						</ul>
+					</li>
+					<li style="padding-left: 20px;">
+						<i class="fa fa-circle green-icon"></i> Troubleshooting and Maintenance.
+						<ul style="padding-left: 40px;">
+							<li><i class="fa fa-circle green-icon"></i> Common issues in metalwork and how to fix them</li>
+							<li><i class="fa fa-circle green-icon"></i> Tool maintenance: Cleaning and storing tools properly</li>
+							<li><i class="fa fa-circle green-icon"></i> Tips for selecting the right materials and tools for a project</li>
+						</ul>
+					</li>
+					<li style="padding-left: 20px;">
+						<i class="fa fa-circle green-icon"></i> Assignments.
+					</li>
 				</ul>
+
+				<h6>Program Details</h6>
+				<ul>
+					<li><strong>Duration:</strong> 6 months, including theory and hands-on sessions.</li>
+					<li><strong>Mode:</strong> On-site training and lectures in a safe and equipped workshop.</li>
+					<li><strong>Target Audience:</strong> Beginners, maintenance staff, and DIY enthusiasts.</li>
+					<li><strong>Certification:</strong> Certificates of participation or completion.</li>
+				</ul>
+
 				<!-- <a class="mx-1" href="#">Read More <i class="fe fe-chevron-right"></i></a> -->
 			</div>
 
@@ -232,15 +387,64 @@
 					</svg>
 				</div>
 				<h4 class="mx-1">
-					Waterproofing Techniques Training Program
+					Basic Electrical Works Training Program
 				</h4>
+				<p>
+					The Basic Electrical Works Training Program provides foundational knowledge and practical skills for safely handling and maintaining electrical systems. It is tailored for beginners, maintenance personnel, and anyone looking to develop essential electrical skills for construction, repairs, or home improvement.
+				</p>
+
 				<ul class="text-muted mb-3 mx-1 justified-list">
-					<li style="padding-left: 20px;"><i class="fa fa-circle green-icon"></i>Introduction to waterproofing principles, types of materials, and their applications in construction.</li>
-					<li style="padding-left: 20px;"><i class="fa fa-circle green-icon"></i>Techniques for assessing water damage and moisture control, including inspection and testing methods.</li>
-					<li style="padding-left: 20px;"><i class="fa fa-circle green-icon"></i>Application methods for various waterproofing systems, such as membranes, coatings, and sealants.</li>
-					<li style="padding-left: 20px;"><i class="fa fa-circle green-icon"></i>Best practices for waterproofing in diverse environments, addressing challenges in residential, commercial, and industrial settings.</li>
-					<li style="padding-left: 20px;"><i class="fa fa-circle green-icon"></i>Hands-on workshops to practice waterproofing techniques in practical settings.</li>
-					<li style="padding-left: 20px;"><i class="fa fa-circle green-icon"></i>Final assessments and project work, enabling students to showcase their waterproofing skills.</li>
+					<li style="padding-left: 20px;">
+						<i class="fa fa-circle green-icon"></i> Introduction & Basics of Electricity.
+						<ul style="padding-left: 40px;">
+							<li><i class="fa fa-circle green-icon"></i> Electrical Theory</li>
+							<li><i class="fa fa-circle green-icon"></i> Components of an Electrical Circuit</li>
+							<li><i class="fa fa-circle green-icon"></i> Tools and Equipment</li>
+						</ul>
+					</li>
+					<li style="padding-left: 20px;">
+						<i class="fa fa-circle green-icon"></i> Electrical Safety.
+						<ul style="padding-left: 40px;">
+							<li><i class="fa fa-circle green-icon"></i> Hazards in Electrical Work</li>
+							<li><i class="fa fa-circle green-icon"></i> Safety Practices</li>
+							<li><i class="fa fa-circle green-icon"></i> Understanding Circuit Breakers and Fuses</li>
+						</ul>
+					</li>
+					<li style="padding-left: 20px;">
+						<i class="fa fa-circle green-icon"></i> Basic Electrical Skills and Techniques.
+						<ul style="padding-left: 40px;">
+							<li><i class="fa fa-circle green-icon"></i> Wiring and Connections</li>
+							<li><i class="fa fa-circle green-icon"></i> Installing Electrical Fixtures</li>
+							<li><i class="fa fa-circle green-icon"></i> Troubleshooting Basics</li>
+						</ul>
+					</li>
+					<li style="padding-left: 20px;">
+						<i class="fa fa-circle green-icon"></i> Practical Hands-On Projects.
+						<ul style="padding-left: 40px;">
+							<li><i class="fa fa-circle green-icon"></i> Basic Wiring Setup</li>
+							<li><i class="fa fa-circle green-icon"></i> Electrical Repairs</li>
+							<li><i class="fa fa-circle green-icon"></i> Safety Drills</li>
+						</ul>
+					</li>
+					<li style="padding-left: 20px;">
+						<i class="fa fa-circle green-icon"></i> Troubleshooting and Maintenance.
+						<ul style="padding-left: 40px;">
+							<li><i class="fa fa-circle green-icon"></i> Common issues in household wiring and appliances</li>
+							<li><i class="fa fa-circle green-icon"></i> Maintenance tips for long-lasting electrical systems</li>
+							<li><i class="fa fa-circle green-icon"></i> Importance of periodic inspections</li>
+						</ul>
+					</li>
+					<li style="padding-left: 20px;">
+						<i class="fa fa-circle green-icon"></i> Assignments.
+					</li>
+				</ul>
+
+				<h6>Program Details</h6>
+				<ul>
+					<li><strong>Duration:</strong> 6 months, including theory and hands-on sessions.</li>
+					<li><strong>Mode:</strong> On-site training and lectures in a safe and equipped workshop.</li>
+					<li><strong>Target Audience:</strong> Beginners, maintenance staff, and DIY enthusiasts.</li>
+					<li><strong>Certification:</strong> Certificates of participation or completion.</li>
 				</ul>
 				<!-- <a class="mx-1" href="#">Read More <i class="fe fe-chevron-right"></i></a> -->
 			</div>
@@ -371,6 +575,24 @@
 </div>
 <!--Contact close-->
 
+<!-- Verification -->
+<div class="pb-5 bg-info section" id="Verification">
+	<div class="container px-5 px-md-0">
+		<div class="row text-center justify-content-center">
+			<div class="col-lg-8">
+				<h3 class="header-family">Validate Certificate</h3>
+				<p class="text-default text-white sub-text">Please enter the Certificate number to validate the authenticity of a certificate.</p>
+				<div class="input-group">
+					<input type="text" id="verification_code" class="form-control" placeholder="Enter certificate number...">
+					<button class="input-group-text btn btn-warning text-white" id="verify_button">Verify</button>
+				</div>
+				<div id="result" class="text-center mt-3"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Verification close -->
+
 <!-- Applicant-->
 <div class="pb-5  section" id="Application">
 	<div class="container px-5 px-md-0">
@@ -422,6 +644,19 @@
 									<input type="text" class="form-control" id="parentCountry" name="parentCountry">
 								</div>
 							</div>
+							<div class="form-row">
+								<div class="col-md-6 mb-3">
+									<label for="childCourse">Course<i style="color: red;"> *</i></label>
+									<select class="form-control" id="childGender" name="childGender" required>
+										<option value="" disabled selected>Please choose...</option>
+										<option value="Basic First Aid Training Program">Basic First Aid Training Program</option>
+										<option value="Basic Measurement Methods and Waterproofing Training Program">Basic Measurement Methods and Waterproofing Training Program</option>
+										<option value="Basic Metal Works Training Program">Basic Metal Works Training Program</option>
+										<option value="Basic Electrical Works Training Program">Basic Electrical Works Training Program</option>
+									</select>
+									<div class="invalid-feedback">Select gender.</div>
+								</div>
+							</div>
 
 							<div class="form-row">
 								<label class="ckbox">
@@ -439,24 +674,6 @@
 	</div>
 </div>
 <!--Applicant close-->
-
-<!-- Verification -->
-<div class="pb-5 bg-info section" id="Verification">
-	<div class="container px-5 px-md-0">
-		<div class="row text-center justify-content-center">
-			<div class="col-lg-8">
-				<h3 class="header-family">Validate Certificate</h3>
-				<p class="text-default text-white sub-text">Please enter the Certificate number to validate the authenticity of a certificate.</p>
-				<div class="input-group">
-					<input type="text" id="verification_code" class="form-control" placeholder="Enter certificate number...">
-					<button class="input-group-text btn btn-warning text-white" id="verify_button">Verify</button>
-				</div>
-				<div id="result" class="text-center mt-3"></div>
-			</div>
-		</div>
-	</div>
-</div>
-<!-- Verification close -->
 
 <script>
 	document.getElementById("verify_button").addEventListener("click", function() {

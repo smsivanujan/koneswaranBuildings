@@ -39,7 +39,7 @@
                 </div>
                 <footer class="main-footer px-0 pb-0">
                     <div class="row ">
-                        <div class="col-xl-8 col-lg-12 col-md-12 footer1">Copyright © 2024 <a href="javascript:void(0)">Koneswaran Engineering</a>. Designed by
+                        <div class="col-xl-8 col-lg-12 col-md-12 footer1">Copyright © 2015 <a href="javascript:void(0)">Koneswaran Engineering</a>. Designed by
                             <a href="javascript:void(0)"> Sobiztech (Pvt) Ltd </a>
                         </div>
                         <div class="col-xl-4 col-lg-12 col-md-12 ms-auto text-end">
